@@ -11,6 +11,12 @@
 -----
 
 <p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
+
+-----
+
+<p align="center">
           <a href="https://github.com/toanftraanf/">
           <img src="https://github-widgetbox.vercel.app/api/profile?username=toanftraanf&data=followers,repositories,stars,commits&theme=nautilus"
           alt="toanftraanf" />
@@ -26,22 +32,22 @@
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/toantran11/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C"
          alt="toanftraanf" height="30"/></a>
       <a href="mailto:tranthetoan2003@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=071A2C"
          alt="toanftraanf" height="30"/></a>
     </p>
   <p align="center">
       <a href="https://instagram.com/toantran.11" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C"
          alt="azzar" height="30"/></a>
       <a href="https://fb.com/toantran.0311" target="blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+         src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C"
          alt="toanftraanf" height="30"/></a>
       <a href="https://twitter.com/toantran_11" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="azzar" height="30"/></a>
+         src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C"
+         alt="toanftraanf" height="30"/></a>
       <br>
     </p>
   </samp>
@@ -52,30 +58,21 @@
   <summary>💻 github profile stats</summary>
   <div>
   <samp>
-    <h2 align="center"> Github stats </h2>
+    <h2 align="center"> github stats </h2>
       <br/>
     <details open>
-  <summary><h3>Languages</h3></summary>
+  <summary><h3>languages</h3></summary>
             <p align="center">
         <a href="https://github.com/toanftraanf/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toanftraanf&langs_count=6&theme=tokyonight&layout=compact&hide_border=true"
           alt="toanftraanf :: overall Top Langs " /></a>
-      </p>
-        <p align="center">
-          <a href="https://github.com/toanftraanf/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toanftraanf&theme=tokyonight&layout=compact&hide_border=true"
-          alt="toanftraanf :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toanftraanf&theme=tokyonight&layout=compact&hide_border=true"
-          alt="toanftraanf :: Top Langs by commit" />
-          </a>
-        </p>
 </details>
     <details open>
   <summary><h3>stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/toanftraanf/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=toanftraanf&show_icons=true&theme=tokyonight&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=toanftraanf&theme=tokyonight&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api?username=toanftraanf&show_icons=true&theme=tokyonight&hide_border=true" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=toanftraanf&theme=tokyonight&hide_border=true" />
           </a>
        </p>
      <br>
@@ -84,4 +81,4 @@
 </details>
 
 -----
-Last edited: 30 Jun 2023
+last edited: 30 jun 2023
