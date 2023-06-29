@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com/?user=toanftraanf)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=toanftraanf&theme=catppuccin-macchiato&hide_border=true&border_radius=4.8)](https://git.io/streak-stats)
 <!--
 **toanftraanf/toanftraanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
