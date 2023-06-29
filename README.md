@@ -1,6 +1,7 @@
 ### Hi there 👋
 [![GitHub Streak](https://streak-stats.demolab.com?user=toanftraanf&theme=catppuccin-macchiato&hide_border=true&border_radius=4.8)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toanftraanf&show_icons=true&theme=tokyonight)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31prh4lxexkli4tndu4p22ku6o6a&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31prh4lxexkli4tndu4p22ku6o6a&cover_image=true&theme=default&show_offline=false&background_color=31202e&interchange=true&bar_color_cover=false)]]
 <!--
 **toanftraanf/toanftraanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
