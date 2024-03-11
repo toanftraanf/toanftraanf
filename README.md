@@ -1,11 +1,5 @@
 <div align="center">
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&size=40&pause=1000&color=0a0047&center=true&vCenter=true&width=435&lines=hi+there%2C+i'm+Toan+Tran" alt="Typing SVG" /></a></h1>
-<h4 align="center">an software engineering student studying at fpt university</h4>
-</div>
-
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" />
+<h4 align="center">a software engineering student studying at fpt university</h4>
 </div>
 
 -----
